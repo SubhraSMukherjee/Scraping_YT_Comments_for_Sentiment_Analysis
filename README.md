@@ -13,3 +13,8 @@ Requirements
 - GCP API Key
 - Video Id e.g., ...youtube.com/watch?v=**TReelsVxWxg**
 - Open AI API key
+
+  ___
+
+[Open the PDF (preview on GitHub)](https://github.com/SubhraSMukherjee/Scraping_YT_Comments_for_Sentiment_Analysis/blob/main/Report_2025-11-18.pdf)
+
